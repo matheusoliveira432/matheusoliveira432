@@ -1,28 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=SOPHIA%20HONORATO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=MATHEUS%20OLIVEIRA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;REACT+%7C+JAVA+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING;WELCOME+TO+MY+CODE+UNIVERSE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=BEM+VINDO+AO+MEU+PERFIL;JAVASCRIPT+|+HTML+|+CSS;DEV+BACK+EM+DESENVOLVIMENTO"/>
 
 </div>
 
 ---
 
-## 🤖 SOPHIA AI CORE
+## 🤖 MATHEUS SYSTEM v1.0
 
 ```bash
 ╭────────────────────────────╮
-│     SOPHIA SYSTEM v2.0     │
+│    ESTUDANTE DA FATEC       │
 ╰────────────────────────────╯
 
 Initializing system...
 
 ████████████████████ 100%
 
-✔ Developer detected
-✔ Creativity enabled
-✔ Code engine activated
-✔ Projects loaded
+✔ Estudante de Gestão de TI na FATEC
+✔ Foco em desenvolvimento Backend
+✔ Apaixonado por tecnologia e inovação
+✔ Sempre evoluindo um código por dia
 
 STATUS: ONLINE 🚀
 ```
@@ -31,116 +31,110 @@ STATUS: ONLINE 🚀
 
 ## 👩‍💻 About Me
 
-```javascript
-const Sophia = {
+```javascript 
+const Matheus = {
+ name: "Matheus Oliveira",
 
- name: "Sophia Honorato",
-
- role: "Full Stack Developer",
+ role: "Dev Back em desenvolvimento",
 
  location: "São Paulo, Brazil 🇧🇷",
 
  stack: {
-    frontend: [
-      "React",
-      "JavaScript",
-      "TypeScript",
-      "HTML",
-      "CSS"
-    ],
+   frontend: [
+     "JavaScript",
+     "HTML",
+     "CSS"
+   ],
 
-    backend: [
-      "Java",
-      "Node.js",
-      "Python"
-    ],
+   backend: [
+     "JavaScript",
+     "Node.js"
+   ],
 
-    database: [
-      "MySQL",
-      "Supabase"
-    ]
+   database: [
+     "MySQL",
+     "Supabase"
+   ]
  },
 
  tools: [
    "Git",
    "GitHub",
-   "Figma",
    "VS Code"
- ],
-
- passion:
- "Building digital experiences 🚀"
+ ]
 
 }
 ```
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack 
 
-<div align="center">
+ <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,mysql,supabase,git,github,figma,vscode,docker&perline=8"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,supabase,git,github,vscode,"/>
+
 
 </div>
 
----
 
-## 🚀 Featured Projects
+--- 
 
-| 🚀 Project | 💡 Description |
-|---|---|
-| 💄 Divine | Beauty E-commerce |
-| ⚡ Core Sync | Business Dashboard |
-| 🌿 Nutre Care | Eco Makeup Brand |
-| 🌸 Mosaico Rosa | AI + Lovable Project |
-| 🌊 Mar & Brisa | Modern Landing Page |
-| 🎵 Projeto Music | Music Experience |
-| 🌍 Milton Santos | Educational Website |
+## 🧠 Current Mission 
 
----
-
-## 🧠 Current Mission
-
-```bash
+```Bash
 > Loading objectives...
 
-[██████████] React Development
+[████████░░] Criação de Projetos 
 
-[████████░░] Backend Skills
+[█████░░░░░] Backend Skills
 
-[███████░░░] Artificial Intelligence
+[████░░░░░░] Frontend Skills
 
-[██████████] Creating Projects
+[██████░░░░] Inteligência Artificial
 
 STATUS:
-Never stop learning 🚀
+Em Desenvolvimento 🚀
 ```
 
 ---
 
-## 🌎 Connect With Me
+## 🌎 Connect With Me 
 
-<div align="center">
+ <div align="center">
 
-<a href="https://github.com/sophiahonopato">
+
+<a href="https://github.com/matheusoliveira432">
+
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+
 </a>
 
-<a href="https://www.linkedin.com/in/sophia-honorato-ribeiro-0114b936a">
+
+<a href="https://www.linkedin.com/in/matheus-oliveira-5a8b553a5?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
+
 
 </div>
+
 
 ---
 
-<div align="center">
 
-### 💜 "Turning ideas into code and code into experiences."
+<div align="center"> 
 
-<img src="https://komarev.com/ghpvc/?username=sophiahonopato&style=for-the-badge&color=8A2BE2"/>
+ ###  Tranformando ideias em códigos e códigos em soluçoes.
+
+
+
+
+
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/> 
