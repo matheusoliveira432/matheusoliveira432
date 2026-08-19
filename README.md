@@ -2,18 +2,18 @@
 
 # matheusoliveira · Dev
 
-### 🚀 Estudante de Gestão da Tecnologia da Informação
+###  Estudante de Gestão da Tecnologia da Informação
 
 ---
 
 </div>
 
-### 🛠️ Status
+###  Status
 - *Foco Atual:* Engenharia de Software e Redes
 - *Aprendizado:* Desenvolvimento Web (Full-Stack)
 - *Objetivo:* Construir experiências digitais de alto padrão
 
-### 💻 About
+###  About
 Sou estudante de TI dedicado a explorar a arquitetura de software e criar soluções web limpas e modernas. Apaixonado por hardware, redes e pela intersecção entre design e código de alta performance.
 
 ---
