@@ -8,7 +8,7 @@
 
 ---
 
-## 🤖 MATHEUS SYSTEM v1.0
+##  MATHEUS SYSTEM v1.0
 
 ```bash
 ╭────────────────────────────╮
@@ -24,12 +24,12 @@ Initializing system...
 ✔ Apaixonado por tecnologia e inovação
 ✔ Sempre evoluindo um código por dia
 
-STATUS: ONLINE 🚀
+STATUS: ONLINE 
 ```
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 ```javascript 
 const Matheus = {
@@ -68,7 +68,7 @@ const Matheus = {
 
 ---
 
-## ⚡ Tech Stack 
+##  Tech Stack 
 
  <div align="center">
 
@@ -81,7 +81,7 @@ const Matheus = {
 
 --- 
 
-## 🧠 Current Mission 
+##  Current Mission 
 
 ```Bash
 > Loading objectives...
@@ -100,7 +100,7 @@ Em Desenvolvimento 🚀
 
 ---
 
-## 🌎 Connect With Me 
+##  Connect With Me 
 
  <div align="center">
 
