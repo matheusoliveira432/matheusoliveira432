@@ -8,7 +8,7 @@
 
 ---
 
-##  MATHEUS SYSTEM v1.0
+## MATHEUS SYSTEM v1.0
 
 ```bash
 ╭────────────────────────────╮
@@ -24,64 +24,89 @@ Initializing system...
 ✔ Apaixonado por tecnologia e inovação
 ✔ Sempre evoluindo um código por dia
 
-STATUS: ONLINE 
+STATUS: ONLINE
 ```
 
 ---
 
-##  About Me
+## About Me
 
-```javascript 
-const Matheus = {
- name: "Matheus Oliveira",
+<div align="center">
 
- role: "Dev Back em desenvolvimento",
+**Matheus Oliveira** — Dev Back em desenvolvimento 📍 São Paulo, Brazil 🇧🇷
 
- location: "São Paulo, Brazil 🇧🇷",
-
- stack: {
-   frontend: [
-     "JavaScript",
-     "HTML",
-     "CSS"
-   ],
-
-   backend: [
-     "JavaScript",
-     "Node.js"
-   ],
-
-   database: [
-     "MySQL",
-     "Supabase"
-   ]
- },
-
- tools: [
-   "Git",
-   "GitHub",
-   "VS Code"
- ]
-
-}
-```
-
----
-
-##  Tech Stack 
-
- <div align="center">
-
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,supabase,git,github,vscode,"/>
-
+Estudante de Gestão de TI, construindo aplicações com **JavaScript/Node.js** no backend e bancos como **MySQL** e **Supabase**. Curioso por engenharia de dados e sempre buscando aprender algo novo.
 
 </div>
 
+---
 
---- 
+## Tech Stack
 
-##  Current Mission 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,supabase,git,github,vscode,"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/matheusoliveira432/ivonete-site">
+          <img src="https://img.icons8.com/fluency/96/calendar.png" width="75" alt="Ivonete Site Logo" />
+        </a>
+        <h4><a href="https://github.com/matheusoliveira432/ivonete-site">💇 Ivonete Site — Agendamento</a></h4>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-6d28d9?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Supabase-a855f7?style=flat-square&logo=supabase&logoColor=white" />
+        </p>
+      </div>
+      <p>
+        Sistema completo de agendamento online para salão de beleza, com painel administrativo e confirmação de horários por e-mail.
+      </p>
+      <div align="center">
+        <a href="https://ivonete-site.vercel.app">
+          <img src="https://img.shields.io/badge/Ver_Site-C084FC?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/matheusoliveira432/voebem-eng-dados-ia">
+          <img src="https://img.icons8.com/fluency/96/airplane-take-off.png" width="75" alt="VoeBem Logo" />
+        </a>
+        <h4><a href="https://github.com/matheusoliveira432/voebem-eng-dados-ia">✈️ VoeBem — Eng. de Dados com IA</a></h4>
+        <p>
+          <img src="https://img.shields.io/badge/Databricks-6d28d9?style=flat-square&logo=databricks&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-a855f7?style=flat-square&logo=python&logoColor=white" />
+        </p>
+      </div>
+      <p>
+        Pipeline de dados em camadas Bronze, Silver e Gold — projeto da imersão de Engenharia de Dados com IA da Alura, processando dados de voos e aeroportos.
+      </p>
+      <div align="center">
+        <a href="https://github.com/matheusoliveira432/voebem-eng-dados-ia">
+          <img src="https://img.shields.io/badge/Conhecer_Projeto-C084FC?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center" style="margin-top: 15px;">
+  <a href="https://github.com/matheusoliveira432?tab=repositories">
+    <img src="https://img.shields.io/badge/📁_Explorar_Todos_os_Repositórios-21262D?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## Current Mission
 
 ```Bash
 > Loading objectives...
@@ -100,41 +125,26 @@ Em Desenvolvimento 🚀
 
 ---
 
-##  Connect With Me 
+## Connect With Me
 
- <div align="center">
-
+<div align="center">
 
 <a href="https://github.com/matheusoliveira432">
-
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-
 </a>
-
 
 <a href="https://www.linkedin.com/in/matheus-oliveira-5a8b553a5?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
-
 </div>
-
 
 ---
 
+<div align="center">
 
-<div align="center"> 
-
- ###  Tranformando ideias em códigos e códigos em soluçoes.
-
-
-
-
-
+### Tranformando ideias em códigos e códigos em soluçoes.
 
 </div>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
