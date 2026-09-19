@@ -58,7 +58,7 @@ Estudante de Gestão de TI, construindo aplicações com **JavaScript/Node.js** 
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/matheusoliveira432/ivonete-site">
-          <img src="https://raw.githubusercontent.com/matheusoliveira432/matheusoliveira432/main/logo-ivonete.png" width="48" alt="Ivonete Site Logo" />
+          <img src="https://raw.githubusercontent.com/matheusoliveira432/matheusoliveira432/main/logo-ivonete.jpeg" width="48" alt="Ivonete Site Logo" />
         </a>
         <h4><a href="https://github.com/matheusoliveira432/ivonete-site">Ivonete Site — Agendamento</a></h4>
         <p>
@@ -78,7 +78,7 @@ Estudante de Gestão de TI, construindo aplicações com **JavaScript/Node.js** 
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/matheusoliveira432/voebem-eng-dados-ia">
-          <img src="https://raw.githubusercontent.com/matheusoliveira432/matheusoliveira432/main/logo-voebem.png" width="48" alt="VoeBem Logo" />
+          <img src="https://raw.githubusercontent.com/matheusoliveira432/matheusoliveira432/main/logo-voebem.jpeg" width="48" alt="VoeBem Logo" />
         </a>
         <h4><a href="https://github.com/matheusoliveira432/voebem-eng-dados-ia">VoeBem — Eng. de Dados com IA</a></h4>
         <p>
