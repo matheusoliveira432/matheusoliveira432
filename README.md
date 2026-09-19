@@ -35,7 +35,7 @@ STATUS: ONLINE
 
 **Matheus Oliveira** — Dev Back em desenvolvimento 📍 São Paulo, Brazil 🇧🇷
 
-Estudante de Gestão de TI, construindo aplicações com **JavaScript/Node.js** no backend e bancos como **MySQL** e **Supabase**. juntamente com frontend usando **HTML**, **CSS** Curioso por engenharia de dados e sempre buscando aprender algo novo.
+Estudante de Gestão de TI, construindo aplicações com **JavaScript/Node.js** no backend e bancos como **MySQL** e **Supabase**, juntamente com frontend usando **HTML** e **CSS**. Curioso por backend e tudo que envolve construir a lógica por trás das aplicações.
 
 </div>
 
@@ -51,16 +51,16 @@ Estudante de Gestão de TI, construindo aplicações com **JavaScript/Node.js** 
 
 ---
 
-##  Projetos em Destaque
+## Featured Projects
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/matheusoliveira432/ivonete-site">
-          <img src="https://img.icons8.com/fluency/96/calendar.png" width="75" alt="Ivonete Site Logo" />
+          <img src="https://raw.githubusercontent.com/matheusoliveira432/matheusoliveira432/main/logo-ivonete.png" width="48" alt="Ivonete Site Logo" />
         </a>
-        <h4><a href="https://github.com/matheusoliveira432/ivonete-site">💇 Ivonete Site — Agendamento</a></h4>
+        <h4><a href="https://github.com/matheusoliveira432/ivonete-site">Ivonete Site — Agendamento</a></h4>
         <p>
           <img src="https://img.shields.io/badge/Node.js-6d28d9?style=flat-square&logo=node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/Supabase-a855f7?style=flat-square&logo=supabase&logoColor=white" />
@@ -78,9 +78,9 @@ Estudante de Gestão de TI, construindo aplicações com **JavaScript/Node.js** 
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/matheusoliveira432/voebem-eng-dados-ia">
-          <img src="https://img.icons8.com/fluency/96/airplane-take-off.png" width="75" alt="VoeBem Logo" />
+          <img src="https://raw.githubusercontent.com/matheusoliveira432/matheusoliveira432/main/logo-voebem.png" width="48" alt="VoeBem Logo" />
         </a>
-        <h4><a href="https://github.com/matheusoliveira432/voebem-eng-dados-ia">✈️ VoeBem — Eng. de Dados com IA</a></h4>
+        <h4><a href="https://github.com/matheusoliveira432/voebem-eng-dados-ia">VoeBem — Eng. de Dados com IA</a></h4>
         <p>
           <img src="https://img.shields.io/badge/Databricks-6d28d9?style=flat-square&logo=databricks&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-a855f7?style=flat-square&logo=python&logoColor=white" />
