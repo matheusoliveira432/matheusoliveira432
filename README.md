@@ -35,7 +35,7 @@ STATUS: ONLINE
 
 **Matheus Oliveira** — Dev Back em desenvolvimento 📍 São Paulo, Brazil 🇧🇷
 
-Estudante de Gestão de TI, construindo aplicações com **JavaScript/Node.js** no backend e bancos como **MySQL** e **Supabase**, juntamente com frontend usando **HTML** e **CSS**. Curioso por backend e tudo que envolve construir a lógica por trás das aplicações.
+Estudante de Gestão de TI, construindo aplicações com **JavaScript/Node.js** no backend e bancos como **MySQL** e **Supabase**, juntamente com frontend usando **HTML** e **CSS**. Curioso por engenharia de dados e sempre buscando aprender algo novo.
 
 </div>
 
